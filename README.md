@@ -8,6 +8,6 @@
 
 [shapez.io](https://hydro.ac/file/2867/shapeziopc.zip)
 
-[teeworld](https://pan.bdwp.vip/s/E6DhA)
+[teeworld](https://pan.bdwp.vip/s/E6DhA)的新版：[DDraceNetwork](https://pan.bdwp.vip/s/4kWf3)
 
 [MC俄罗斯方块](https://markcup.lanzout.com/b02iukfyf)
