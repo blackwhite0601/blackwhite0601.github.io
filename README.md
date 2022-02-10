@@ -1,5 +1,7 @@
 # 永远的CC的网站
 
+![](https://cdn.luogu.com.cn/upload/usericon/189163.png)
+
 一个菜鸡OIer。
 
 个人博客：[link](https://yydcc-blog.github.io/)
