@@ -8,9 +8,9 @@
 
 # 我的项目：
 
-[[2048]](./2048/index.html)
-[[入射光线，法线，出射光线]](./1/index.html)
-[[Jumper（单击刹车，双击跳跃，R重来）]](https://blackwhite0601.github.io/Jumper/index.html)
+[[2048]](./2048)
+[[入射光线，法线，出射光线]](./1)
+[[Jumper（单击刹车，双击跳跃，R重来）]](https://blackwhite0601.github.io/Jumper)
 
 # 摸鱼：
 
