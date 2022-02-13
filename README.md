@@ -6,6 +6,12 @@
 
 个人博客：[link](https://yydcc-blog.github.io/)
 
+# 我的项目：
+
+[2048](./2048/index.html)
+
+[不知道是什么](./1/index.html)
+
 # 摸鱼：
 
 网页游戏：
