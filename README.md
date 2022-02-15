@@ -57,7 +57,7 @@ PC游戏：
 [石油大亨](https://pan.bdwp.vip/s/9Z6u3)
 [植物大战僵尸TAT版](https://pan.bdwp.vip/s/LjDiW)
 [yorg.io单机版](https://pan.bdwp.vip/s/jNNHG)
-[shapez.io单机](https://hydro.ac/file/2867/shapeziopc.zip)
+[shapez.io单机](https://pan.bdwp.vip/s/8KWtw)
 [teeworld](https://pan.bdwp.vip/s/E6DhA)
 [DDraceNetwork](https://pan.bdwp.vip/s/4kWf3)
 [MC俄罗斯方块](https://markcup.lanzout.com/b02iukfyf)
