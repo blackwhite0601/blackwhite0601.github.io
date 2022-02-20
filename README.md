@@ -13,6 +13,7 @@
 [[Jumper（单击刹车，双击跳跃，R重来）]](https://blackwhite0601.github.io/Jumper)
 [[蔡徐坤打篮球]](./cxk-ball-master)
 [[信任的进化]](./trust)
+[[emoji扫雷]](./emoji)
 
 # 摸鱼：
 
