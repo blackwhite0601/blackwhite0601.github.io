@@ -41,7 +41,7 @@
 [[kana!]](https://kana.byha.top:444/)
 [[太空对接]](https://iss-sim.spacex.com/)
 [[进化]](https://likexia.gitee.io/evolve/)
-[[飞机大战]](https://copter.io)
+[[僵尸增量]](https://g8hh.github.io/incremancer/)
 
 **2048：**
 [[原版]](https://2048game.com/)
