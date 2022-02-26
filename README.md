@@ -18,7 +18,7 @@
 
 # 摸鱼：
 
-网页游戏：
+## 网页游戏：
 
 **IO游戏集**
 [[波波球]](https://kugeln.io/) 
@@ -49,7 +49,7 @@
 [[死铁]](https://dimit.me/Fe26/index_zh_CN.html)
 [[MC版]](http://news.17173.com/z/mc/flashgame/mc2048.shtml)
 
-PC游戏：
+## PC游戏：
 
 [Kingdown Rush](https://pan.bdwp.vip/s/3a2Iz)
 [猫里奥](https://pan.bdwp.vip/s/xZ8tk)
