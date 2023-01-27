@@ -37,6 +37,7 @@
 比较好玩的 io games 也就这几个吧。。
 
 **推荐：**
+[[终极摸鱼大全：ywyj.cn]](https://ywyj.cn/)
 [[人生重开模拟器666]](http://liferestart.syaro.io/view/)
 [[kana!]](https://kana.byha.top:444/)
 [[太空对接]](https://iss-sim.spacex.com/)
@@ -48,21 +49,3 @@
 [[OI版]](https://www.ak-ioi.com/apps/oi-2048/)
 [[死铁]](https://dimit.me/Fe26/index_zh_CN.html)
 [[MC版]](http://news.17173.com/z/mc/flashgame/mc2048.shtml)
-
-## PC游戏：
-
-[Kingdown Rush](https://pan.bdwp.vip/s/3a2Iz)
-[猫里奥](https://pan.bdwp.vip/s/xZ8tk)
-[传说之下](https://pan.bdwp.vip/s/6VkhW)
-[植物大战僵尸经典版](https://pan.bdwp.vip/s/e3VsL)
-[Forager浮岛物语](https://pan.bdwp.vip/s/GVoFj)
-[终结将至](https://pan.bdwp.vip/s/kqntk)
-[IWANNA200层](https://pan.bdwp.vip/s/wqjTB)
-[石油大亨](https://pan.bdwp.vip/s/9Z6u3)
-[植物大战僵尸TAT版](https://pan.bdwp.vip/s/LjDiW)
-[yorg.io单机版](https://pan.bdwp.vip/s/jNNHG)
-[shapez.io单机](https://pan.bdwp.vip/s/8KWtw)
-[teeworld](https://pan.bdwp.vip/s/E6DhA)
-[DDraceNetwork](https://pan.bdwp.vip/s/4kWf3)
-[MC俄罗斯方块](https://markcup.lanzout.com/b02iukfyf)
-[superbunnyman](https://pan.wiosk.cn/s/OZdcg)
