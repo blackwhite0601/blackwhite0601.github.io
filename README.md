@@ -1,3 +1,5 @@
 # ForeverCC的小站
 
-一个大菜鸡呢
+Dimension by HTML5 UP
+
+主要是自己的小想法，多多支持我吧。
